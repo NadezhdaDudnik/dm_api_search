@@ -2,8 +2,7 @@ from distutils.core import setup
 
 REQUIRES = [
     'grpc',
-    'structlog',
-    'google'
+    'structlog'
 ]
 
 setup(
