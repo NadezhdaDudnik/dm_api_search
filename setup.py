@@ -4,7 +4,7 @@ REQUIRES = ['structlog']
 
 setup(
     name='dm_api_search',
-    version='0.0.2',
+    version='0.0.3',
     packages=['dm_api_search'],
     url='https://github.com/NadezhdaDudnik/dm_api_search.git',
     license='MIT',

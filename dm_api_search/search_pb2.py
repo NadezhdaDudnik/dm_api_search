@@ -17,7 +17,7 @@ DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\n\x1f\x61pis/dm_api
 
 _globals = globals()
 _builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, _globals)
-_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'apis.dm_api_search.search_pb2', _globals)
+_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'dm_api_search.search_pb2', _globals)
 if _descriptor._USE_C_DESCRIPTORS == False:
 
   DESCRIPTOR._options = None
